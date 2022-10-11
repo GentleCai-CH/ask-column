@@ -11,7 +11,7 @@
 - PC 端 UI 框架：Boostrap
 - HTTP 工具：Axios
 - 代码规范：EditorConfig + Prettier + ESLint
-- 部署：shell + BT面板
+- 部署：shell + BT面板 + Nginx
 
 ## ✨ 功能清单
  
