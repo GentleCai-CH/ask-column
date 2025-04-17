@@ -1,6 +1,6 @@
 # ask-column
 
-
+说明：个人前期前端项目学习demo
 
 ## ✨ 技术栈
 - 编程语言：JavaScript、Typescript
