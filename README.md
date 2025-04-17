@@ -2,6 +2,12 @@
 
 说明：个人前期前端项目学习demo之一，属于不成熟探索。已删除其他demo库，只保留此库。
 
+前期学习：
+https://github.com/GentleCai-CH/FrontEndPravtice_01-HtmlCss
+https://github.com/GentleCai-CH/FrontEndPravtice_02-Js
+https://github.com/dustinhsiao21/Javascript30-dustin
+
+
 
 ## ✨ 技术栈
 - 编程语言：JavaScript、Typescript
